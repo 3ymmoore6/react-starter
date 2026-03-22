@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Removed unused variable declarations
 - Addressed feedback from self code review
+
+## 2026-03-23
+- Cleaned up old debug logs
+- Investigated performance bottleneck, noted findings
+- Fixed off-by-one error in loop
