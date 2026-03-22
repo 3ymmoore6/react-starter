@@ -15,3 +15,8 @@ Personal development log — notes, findings, and ongoing work.
 - Cleaned up old debug logs
 - Investigated performance bottleneck, noted findings
 - Fixed off-by-one error in loop
+
+## 2026-03-23
+- Resolved deprecation warnings
+- Updated CI cache strategy
+- Updated .gitignore to exclude build artifacts
