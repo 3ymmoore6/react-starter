@@ -28,3 +28,8 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Added healthcheck endpoint stub
 - Reviewed open issues, added labels
+
+## 2026-03-30
+- Wrote notes on upcoming feature design
+- Reviewed open issues, added labels
+- Added healthcheck endpoint stub
